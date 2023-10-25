@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-basics-in-class-exercise-one';
+  name: string = "Leeman";
 }
